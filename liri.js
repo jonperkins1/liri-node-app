@@ -57,7 +57,7 @@ function concertThis(value) {
 
 function spotifySong(value) {
 	if (!value) {
-		value = 'The Sign';
+		value = '';
 	}
 	spotify
 		.search({ type: 'track', query: value })
