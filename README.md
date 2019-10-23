@@ -81,3 +81,13 @@ Currently in random.txt, the following text is there:
 spotify-this-song,"I Want it That Way"
 
 This would call the spotify-this-song function and pass in "I Want it That Way" as the song.
+
+## Examples of the app in action (screenshots of each fucntion search)
+
+-   ![Spotify - Dancing Queen Search](spotifydancingqueen.png)
+
+-   ![Movie Search - Titanic](titanic.png)
+
+-   ![Concert Search - Weezer](weezerconcerts.png)
+
+-   !['Do what it says'](dowhatitsays.png)
